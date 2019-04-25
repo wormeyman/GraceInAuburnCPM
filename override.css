@@ -78,18 +78,18 @@ body.blog-index .blog-right .podcast-btn {
 /* FONTS ADDED BY CPM */
 
 header .header-btns li {
-    font-family: "proxima-nova",serif;
+    font-family: "proxima-nova",sans-serif;
     font-weight: 900;
 }
 
 header .nav-wrapper.full ul#nav li {
-    font-family: "proxima-nova",serif;
+    font-family: "proxima-nova",sans-serif;
     font-weight: 900;
     font-style: normal;
 }
 
 #home header .banner-text p {
-    font-family: "proxima-nova",serif;
+    font-family: "proxima-nova",sans-serif;
     font-weight: 900;
 }
 
@@ -116,7 +116,7 @@ header .nav-wrapper.full ul#nav li {
 
 
 #home #section-three #featured-event h3 {
-    font-family: "proxima-nova",serif;
+    font-family: "proxima-nova",sans-serif;
     font-weight: 800;
 }
 
@@ -136,12 +136,12 @@ header .nav-wrapper.full ul#nav li {
 }
 
 #home #section-three #upcoming-events h3 {
-    font-family: "proxima-nova",serif;
+    font-family: "proxima-nova",sans-serif;
     font-weight: 900;
 }
 
 #home #section-three #upcoming-events #event-wrapper .event h4 a, #home #section-three #upcoming-events .eventlist .event h4 a {
-    font-family: "proxima-nova",serif;
+    font-family: "proxima-nova",sans-serif;
     font-weight: 600;
 }
 
@@ -156,7 +156,7 @@ header .nav-wrapper.full ul#nav li {
 }
 
 #home #section-four #featured-sermon-block h3 {
-    font-family: "proxima-nova",serif;
+    font-family: "proxima-nova",sans-serif;
     font-weight: 900;
     font-size: 50px !important;
 }
@@ -166,7 +166,7 @@ header .nav-wrapper.full ul#nav li {
 }
 
 #home #section-four #featured-sermon-block div#info-box span#sermon-date .sermon-day {
-    font-family: "proxima-nova",serif;
+    font-family: "proxima-nova",sans-serif;
     font-weight: 900;
 }
 
@@ -176,11 +176,11 @@ header .nav-wrapper.full ul#nav li {
 }
 
 footer .btm-info .wrapper .contact-info p, footer .btm-info .wrapper .contact-info a {
-    font-family: "proxima-nova",serif;
+    font-family: "proxima-nova",sans-serif;
 }
 
 #subpage header #banner-wrap .banner-title h1 {
-    font-family: "proxima-nova",serif;
+    font-family: "proxima-nova",sans-serif;
 }
 
 .media .tabset li span {
@@ -198,11 +198,11 @@ footer .btm-info .wrapper .contact-info p, footer .btm-info .wrapper .contact-in
 }
 
 body .featured-event .featured-info .featured-categories {
-    font-family: "proxima-nova",serif;
+    font-family: "proxima-nova",sans-serif;
 }
 
 body .featured-event .featured-info .featured-event-summary {
-    font-family: "proxima-nova",serif;
+    font-family: "proxima-nova",sans-serif;
 }
 
 .featured-event .featured-info .featured-event-time {
@@ -238,11 +238,11 @@ body .featured-event .featured-info .featured-event-summary {
 }
 
 #subpage #content .wrapper .cms-output p, #subpage #content .wrapper .cms-output li, #subpage #content .wrapper .cms-output ul, #subpage #content .wrapper .cms-output td {
-    font-family: "proxima-nova",serif;
+    font-family: "proxima-nova",sans-serif;
 }
 
 #subpage #content .wrapper .side-nav ul#side_nav li ul.side_nav_level1 li {
-    font-family: "proxima-nova",serif;
+    font-family: "proxima-nova",sans-serif;
 }
 
 #subpage #content .wrapper .side-nav ul#side_nav li {
@@ -270,7 +270,7 @@ body .featured-event .featured-info .featured-event-summary {
 }
 
 #subpage .sermon-listing .sermon-listing-info .sermon-listing-details {
-    font-family: "proxima-nova",serif;
+    font-family: "proxima-nova",sans-serif;
 }
 
 .pagination a {
@@ -342,7 +342,7 @@ body .featured-event .featured-info .featured-event-summary {
 }
 
 body.blog-index .blog-right .podcast-btn {
-    font-family: "proxima-nova",serif;
+    font-family: "proxima-nova",sans-serif;
 }
 
 #subpage #content .wrapper .cms-output h3 {
@@ -355,5 +355,5 @@ footer .footer-links li {
 }
 
 #subpage.with-default #content .wrapper .banner-title h1, h2, h5, h6 {
-    font-family: "proxima-nova",serif;
+    font-family: "proxima-nova",sans-serif;
 }
