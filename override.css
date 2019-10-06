@@ -380,7 +380,7 @@ footer .btm-info .mobile-wrapper .contact-info a {
 }
 
 @media (min-width: 768px) {
-  .media-top:before {
+.sermon-index .media-top:before {
     content: 'X';
     color: white;
     font-size: 24px;
