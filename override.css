@@ -392,6 +392,7 @@ footer .btm-info .mobile-wrapper .contact-info a {
 .sermon-index .media-top:before {
     content: 'X';
     color: white;
+    color: rgba(255, 255, 255, 0);
     font-size: 24px;
     display: flex;
     align-items: center;
